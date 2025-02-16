@@ -47,7 +47,7 @@ body{
     margin-bottom: 20px;
 }
 
-.button a{
+.Btn a{
     text-decoration: none;
     font-size: 12px;
     color: #000;
@@ -64,10 +64,10 @@ body{
         font-size: 1rem;
     }
     
-    .button a{
+    .Btn a{
         font-size: .5;rem;
     }
-    .button {
+    .Btn {
   position: relative;
   display: flex;
   align-items: center;
@@ -85,7 +85,7 @@ body{
   transition-duration: .3s;
 }
 
-    .button:active {
+    .Btn:active {
   transform: translate(3px , 3px);
   transition-duration: .3s;
   box-shadow: 2px 2px 0px rgb(255, 255, 255);
