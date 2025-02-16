@@ -64,11 +64,10 @@ body{
         font-size: 1rem;
     }
     
-    .button a{
+    .Btn a{
         font-size: .3;rem;
     }
-    /* From Uiverse.io by vinodjangid07 */ 
-.Btn {
+    .Btn {
   position: relative;
   display: flex;
   align-items: center;
@@ -86,7 +85,7 @@ body{
   transition-duration: .3s;
 }
 
-.svg {
+    .svg {
   width: 13px;
   position: absolute;
   right: 0;
@@ -95,11 +94,11 @@ body{
   transition-duration: .3s;
 }
 
-.Btn:hover {
+    .Btn:hover {
   color: transparent;
 }
 
-.Btn:hover svg {
+    .Btn:hover svg {
   right: 43%;
   margin: 0;
   padding: 0;
@@ -107,7 +106,7 @@ body{
   transition-duration: .3s;
 }
 
-.Btn:active {
+    .Btn:active {
   transform: translate(3px , 3px);
   transition-duration: .3s;
   box-shadow: 2px 2px 0px rgb(140, 32, 212);
