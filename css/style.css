@@ -49,7 +49,7 @@ body{
 
 .button a{
     text-decoration: none;
-    font-size: 0rem;
+    font-size: 1rem;
     color: #000;
 }
 
@@ -65,7 +65,7 @@ body{
     }
     
     .button a{
-        font-size: .5;rem;
+        font-size: .2;rem;
     }
     /* From Uiverse.io by vinodjangid07 */ 
 .Btn {
