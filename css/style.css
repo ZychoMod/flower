@@ -83,7 +83,8 @@ body{
   border-radius: 10px;
   box-shadow: 5px 5px 0px rgb(140, 211, 211);
   transition-duration: .3s;
-}
+
+
     .Btn:active {
   transform: translate(3px , 3px);
   transition-duration: .3s;
