@@ -47,7 +47,7 @@ body{
     margin-bottom: 20px;
 }
 
-.butto{
+.button a{
     text-decoration: none;
     font-size: 1rem;
     color: #816;
@@ -64,12 +64,11 @@ body{
         font-size: 1rem;
     }
     
-    .butto{
+    .button a{
         font-size: .5;rem;
     }
     /* From Uiverse.io by vinodjangid07 */ 
-.Btn a{
-  text-decoration: none;
+.Btn {
   position: relative;
   display: flex;
   align-items: center;
