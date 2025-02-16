@@ -47,7 +47,7 @@ body{
     margin-bottom: 20px;
 }
 
-.button a{
+.butto{
     text-decoration: none;
     font-size: 1rem;
     color: #816;
@@ -64,7 +64,7 @@ body{
         font-size: 1rem;
     }
     
-    .button a{
+    .butto{
         font-size: .5;rem;
     }
     /* From Uiverse.io by vinodjangid07 */ 
