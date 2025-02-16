@@ -67,7 +67,7 @@ body{
     .Btn a{
         font-size: .5;rem;
     }
-    .Btn {
+    .button {
   position: relative;
   display: flex;
   align-items: center;
@@ -85,7 +85,7 @@ body{
   transition-duration: .3s;
 }
 
-    .Btn:active {
+    .button:active {
   transform: translate(3px , 3px);
   transition-duration: .3s;
   box-shadow: 2px 2px 0px rgb(255, 255, 255);
