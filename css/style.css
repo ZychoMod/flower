@@ -68,7 +68,7 @@ body{
         font-size: .5;rem;
     }
     /* From Uiverse.io by vinodjangid07 */ 
-.Btn {
+.Btn a{
   text-decoration: none;
   position: relative;
   display: flex;
