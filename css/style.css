@@ -68,6 +68,7 @@ body{
         font-size: .5;rem;
     }
     .Btn {
+  font-size: 12rem;
   position: relative;
   display: flex;
   align-items: center;
